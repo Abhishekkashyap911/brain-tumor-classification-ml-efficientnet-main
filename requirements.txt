@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python
+tqdm
+joblib
+scikit-learn
+statsmodels
+mlxtend
+tensorflow
+ipykernel
+pydot
