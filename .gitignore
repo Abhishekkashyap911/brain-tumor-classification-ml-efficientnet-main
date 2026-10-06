@@ -1,0 +1,19 @@
+# Python environments and temporary files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Dataset folders are downloaded separately from Kaggle
+Training/
+Testing/
+
+# Model weights and generated checkpoints
+*.keras
+*.h5
+best_model_fold_*.keras
+
+# Local editor and operating-system files
+.DS_Store
+Thumbs.db
