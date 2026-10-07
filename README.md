@@ -69,7 +69,7 @@ The accuracy and F1 values shown below are the results reported in the project m
 
 ## Attribution
 
-The existing project materials identify **Muhammed Doğru** as the author. Keep this attribution when sharing or adapting the work. The dataset is provided by [Masoud Nickparvar on Kaggle](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset). No software license file was included with the downloaded project; confirm the original source's license or get permission before publishing a public copy.
+The existing project materials identify **Abhishek Kashyap** as the author. Keep this attribution when sharing or adapting the work. The dataset is provided by [Masoud Nickparvar on Kaggle](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset). No software license file was included with the downloaded project; confirm the original source's license or get permission before publishing a public copy.
 ### Student contribution
 
 Repository setup and upload: Abhishek Kashyap. This is a first-semester learning project.
